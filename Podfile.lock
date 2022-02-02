@@ -1,0 +1,20 @@
+PODS:
+  - AutoMate (1.8.0)
+  - EyesXCUI (8.8.8)
+
+DEPENDENCIES:
+  - AutoMate
+  - EyesXCUI
+
+SPEC REPOS:
+  trunk:
+    - AutoMate
+    - EyesXCUI
+
+SPEC CHECKSUMS:
+  AutoMate: e73f192ba530a60c01e1803f391f28bc154dd9ec
+  EyesXCUI: bbb10a48b8bd1a15d541f2bc1f4d18f4db654ef1
+
+PODFILE CHECKSUM: 83615077ceef6186002f619bd56abe87ddf1bab6
+
+COCOAPODS: 1.11.2
